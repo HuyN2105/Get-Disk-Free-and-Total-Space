@@ -17,7 +17,6 @@ Program will use system() in
 ```cpp
 #include <Windows.h>
 #include <cstdlib>
-#include <bits/stdc++.h>
 ```
 To get information of free and total space of [disk] and write to file.txt
 ```cpp
