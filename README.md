@@ -1,7 +1,7 @@
 # Get Disk Free and Total Space
 <h3 align="center">A c++ pogram to detect Free and Total Disk space made by HuyN</h3>
 
-- 📫 How to reach me **huyynguyeen.21.05@gmail.com**
+- 📫 How to reach me **huyn.dev.2105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
